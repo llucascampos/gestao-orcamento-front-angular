@@ -1,0 +1,19 @@
+.cabecalho{
+    width: 100%;
+    padding: 20px;
+    background: #1C1C1C	;
+    color: #FFFAFA;
+}
+
+
+.menu{
+    margin-top: 8px;
+}
+
+a{
+    padding: 0px 15px;
+    margin-top: 25px;
+    text-decoration: none;
+    color: #FFFAFA;    
+
+}
